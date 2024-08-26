@@ -1,0 +1,4 @@
+public/assets/images
+public/assets/flags
+node_modules
+.env
